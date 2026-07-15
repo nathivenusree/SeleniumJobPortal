@@ -12,7 +12,7 @@ def test_admin_add(driver):
         lambda d: d.current_url == "http://127.0.0.1:7777/"
     )
 
-    # Open Add Job page
+    # Open Add Job pagee
     admin.click_add_job()
     
 
