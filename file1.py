@@ -8,3 +8,5 @@
 #from support
 #from chrome webdriverwait
 #from services
+
+#from expected_conditions as Ec
